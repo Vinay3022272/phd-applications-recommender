@@ -1,0 +1,5 @@
+/data
+src/data/raw
+src/data/prefinal_dataset
+src/data/processed
+.env

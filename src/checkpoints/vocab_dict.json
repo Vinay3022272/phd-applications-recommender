@@ -1,0 +1,68 @@
+{
+    "categorical_maps": {
+        "department": {
+            "Civil Engineering": 1,
+            "Computer Science": 2,
+            "UNKNOWN": 0
+        },
+        "university": {
+            "IIT Bombay": 1,
+            "IIT Delhi": 2,
+            "IIT Kharagpur": 3,
+            "UNKNOWN": 0
+        },
+        "country": {
+            "India": 1,
+            "UNKNOWN": 0
+        }
+    },
+    "categorical_inputs": {
+        "department": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "university": [
+            3,
+            2,
+            1,
+            3
+        ],
+        "country": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "texts": [
+        "Research interests: deep learning for flood prediction and hydrological modelling. Expertise: deep learning, hydrology, remote sensing",
+        "Research interests: computer vision and medical image analysis. Expertise: computer vision, deep learning, medical imaging",
+        "Research interests: structural health monitoring using machine learning. Expertise: machine learning, structural engineering, sensors",
+        "Research interests: remote sensing and climate change. Expertise: remote sensing, GIS, climate modelling"
+    ],
+    "numeric_tensors": [
+        [
+            -1.3537591695785522,
+            -1.1579945087432861,
+            -1.1717002391815186
+        ],
+        [
+            0.5488212704658508,
+            0.5594805479049683,
+            0.39056673645973206
+        ],
+        [
+            -0.47564512491226196,
+            -0.7416369915008545,
+            -0.6509445309638977
+        ],
+        [
+            1.2805830240249634,
+            1.340151071548462,
+            1.4320780038833618
+        ]
+    ],
+    "num_cols": 3
+}
