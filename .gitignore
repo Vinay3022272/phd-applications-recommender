@@ -3,3 +3,5 @@ src/data/raw
 src/data/prefinal_dataset
 src/data/processed
 .env
+analysis_results_02.md
+analysis_results.md
